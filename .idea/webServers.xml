@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="4ed88466-67a7-4747-abdd-cd1c6d2241e9" name="localhost" url="http://numismat">
+        <fileTransfer mountedRoot="C:\OpenServer\domains\numismat" accessType="MOUNT" port="0" />
+      </webServer>
+    </option>
+  </component>
+</project>
